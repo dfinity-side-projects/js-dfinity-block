@@ -6,6 +6,8 @@
 
 # Synopsis
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dfinity/js-dfinity-block.svg)](https://greenkeeper.io/)
+
 This library provides basic functions for creating serializing and deserializing blocks
 
 ## Installation
