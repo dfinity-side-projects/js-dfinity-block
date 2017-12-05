@@ -18,7 +18,7 @@
   "license": "GPL-23.0",
   "dependencies": {
     "assert": "^1.4.1",
-    "buffer-pipe": "0.0.0",
+    "buffer-pipe": "0.0.1",
     "leb128": "0.0.4",
     "primea-message": "^0.6.1",
     "safe-buffer": "^5.1.1",
