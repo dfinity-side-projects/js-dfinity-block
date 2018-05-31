@@ -31,7 +31,7 @@ const sk = crypto.randomBytes(32)
 // sign the block as a minter and serialize the block
 const signedBlock = await block.sign(sk)
 
-// desialize the block
+// deserialize  the block
 const block2 = await DfinityBlock.deserialize(signedBlock)
 
 // read the height of the block
