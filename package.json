@@ -17,7 +17,7 @@
   "author": "mjbecze <mjbecze@gmail.com>",
   "license": "GPL-23.0",
   "dependencies": {
-    "assert": "^1.4.1",
+    "assert": "^2.0.0",
     "buffer-pipe": "0.0.2",
     "leb128": "0.0.4",
     "primea-message": "^0.6.1",
