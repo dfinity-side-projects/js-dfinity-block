@@ -19,7 +19,7 @@
   "dependencies": {
     "assert": "^1.4.1",
     "buffer-pipe": "0.0.2",
-    "leb128": "0.0.4",
+    "leb128": "0.0.5",
     "primea-message": "^0.6.1",
     "safe-buffer": "^5.1.1",
     "tweetnacl": "^1.0.0"
