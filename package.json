@@ -22,7 +22,7 @@
     "leb128": "0.0.4",
     "primea-message": "^0.6.1",
     "safe-buffer": "^5.1.1",
-    "tweetnacl": "^1.0.0"
+    "tweetnacl": "^1.0.3"
   },
   "devDependencies": {
     "coveralls": "^3.0.0",
